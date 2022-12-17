@@ -2,7 +2,7 @@ terraform {
   cloud {
     organization = "CKW-group-Lab"
       workspaces {
-        name = "ckw-rglab-dev"
+        name = "ckw-rglab-prod"
       }
   }
   required_providers {
