@@ -4,3 +4,5 @@ tags:
 resource_groups:
   - name: rg-igb-testlab-pro
     region: westeurope
+  - name: rg-igb-testlab-pro2
+    region: westeurope
