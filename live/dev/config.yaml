@@ -2,5 +2,5 @@ tags:
   TechnicalOwner: "Ivan Gonzalez Berasategui"
   ATNR: "0000000"
 resource_groups:
-  - name: rg-igb-testlab-pro
+  - name: rg-igb-testlab-dev
     region: westeurope
