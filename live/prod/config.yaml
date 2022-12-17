@@ -6,3 +6,5 @@ resource_groups:
     region: westeurope
   - name: rg-igb-testlab-pro2
     region: westeurope
+  - name: rg-igb-testlab-pro3
+    region: westeurope
