@@ -1,0 +1,6 @@
+tags:
+  TechnicalOwner: "Ivan Gonzalez Berasategui"
+  ATNR: "0000000"
+resource_groups:
+  - name: rg-network
+    region: westeurope
